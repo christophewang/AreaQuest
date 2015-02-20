@@ -1,4 +1,9 @@
 AreaQuest
 =========
 
-Alpha Version of AreaQuest Server
+AreaQuest Game Server using Qt 5.1  (C++) 
+
+- Cross Platform Windows / Linux
+- Customized TCP Protocol
+- MySQL / PostgreSQL Database Portability
+
